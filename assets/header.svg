@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Cosimo2233 · Little hardware lab</title>
+  <desc id="desc">A cozy dark circuit board with mint traces, warm peach highlights, and a sleepy cream cat resting beside a microchip.</desc>
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14232c"/><stop offset="1" stop-color="#10171f"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#9ddfce" opacity=".09"/></pattern>
+    <linearGradient id="chip" x2="1" y2="1"><stop stop-color="#345b59"/><stop offset="1" stop-color="#203b41"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="338" rx="24" fill="url(#bg)" stroke="#30434b"/>
+  <rect x="2" y="2" width="1196" height="336" rx="23" fill="url(#dots)"/>
+  <circle cx="1010" cy="140" r="149" fill="#9ddfce" opacity=".035"/>
+  <circle cx="1010" cy="140" r="115" fill="none" stroke="#9ddfce" opacity=".09"/>
+  <g fill="none" stroke="#527e79" stroke-width="2" opacity=".5">
+    <path d="M727 0v64l40 40h47M1200 84h-66l-36 36h-26M1200 283h-78l-45-45h-22M718 340v-49l54-54h49M1147 340v-35l-35-35"/>
+    <circle cx="814" cy="104" r="5"/><circle cx="1072" cy="120" r="5"/><circle cx="821" cy="237" r="5"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <rect x="52" y="45" width="196" height="29" rx="14.5" fill="#203c3d"/>
+    <circle cx="68" cy="59" r="4" fill="#9ddfce"/>
+    <text x="82" y="64" font-size="12" letter-spacing="2" fill="#b8e9d8">LITTLE HARDWARE LAB</text>
+    <text x="49" y="156" font-size="69" font-weight="700" letter-spacing="-2" fill="#eff5f1">Hi, I'm Cosimo<tspan fill="#f4c58b">.</tspan></text>
+    <text x="53" y="198" font-size="20" fill="#b8c9ce">A little code. A little circuit. A lot of curiosity.</text>
+    <g font-size="13" font-family="Consolas, monospace" letter-spacing="1" fill="#9ddfce">
+      <text x="54" y="264">EMBEDDED</text><circle cx="151" cy="260" r="2" fill="#f4c58b"/>
+      <text x="171" y="264">FPGA</text><circle cx="221" cy="260" r="2" fill="#f4c58b"/>
+      <text x="241" y="264">PYTHON</text><circle cx="309" cy="260" r="2" fill="#f4c58b"/>
+      <text x="329" y="264">MAKE SOMETHING REAL</text>
+    </g>
+    <text x="53" y="310" font-size="11" letter-spacing="2" fill="#718e96">COSIMO2233 / CODE &amp; CURIOSITY</text>
+  </g>
+  <!-- A tiny chip becomes the cat's warm workbench. -->
+  <g stroke="#8cbbb0" stroke-width="5" stroke-linecap="round">
+    <path d="M866 227h-14m14 17h-14m14 17h-14m14 17h-14M1014 227h14m-14 17h14m-14 17h14m-14 17h14M889 214v-12m22 12v-12m22 12v-12m22 12v-12m22 12v-12M889 289v13m22-13v13m22-13v13m22-13v13m22-13v13"/>
+  </g>
+  <rect x="865" y="212" width="150" height="78" rx="12" fill="url(#chip)" stroke="#80b9aa" stroke-width="2"/>
+  <rect x="879" y="225" width="122" height="51" rx="6" fill="none" stroke="#80b9aa" opacity=".3"/>
+  <text x="940" y="257" text-anchor="middle" font-family="Consolas, monospace" font-size="16" fill="#c3e9da" letter-spacing="3">MEOW-01</text>
+  <!-- Rounded sleepy cat, with blush and a curled tail. -->
+  <path d="M1000 204c48 10 80-6 73-29-5-15-29-10-23 3" fill="none" stroke="#e9c6a1" stroke-width="19" stroke-linecap="round"/>
+  <ellipse cx="966" cy="180" rx="68" ry="40" fill="#f0d3b0"/>
+  <path d="M870 159l-3-45 34 22q22-9 44 0l30-25-2 49q12 15 8 32c-5 28-101 32-115 4q-8-17 4-37z" fill="#f8e4c8"/>
+  <path d="M877 125l20 14-19 9zM963 122l-17 18 18 7z" fill="#e7a7a6"/>
+  <path d="M885 170q8 9 16 0m35 0q8 9 16 0" fill="none" stroke="#68564d" stroke-width="3" stroke-linecap="round"/>
+  <path d="M914 181l5 4 5-4" fill="#bd8580" stroke="#bd8580" stroke-linejoin="round"/>
+  <path d="M919 185q-5 8-10 2m10-2q5 8 10 2" fill="none" stroke="#68564d" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="881" cy="184" rx="9" ry="5" fill="#edafa6" opacity=".7"/><ellipse cx="956" cy="184" rx="9" ry="5" fill="#edafa6" opacity=".7"/>
+  <path d="M865 178l-17-3m18 12l-18 3m120-12l16-3m-17 12l17 3" stroke="#c7a788" stroke-width="2" stroke-linecap="round"/>
+  <ellipse cx="900" cy="213" rx="19" ry="10" fill="#f8e4c8"/><ellipse cx="945" cy="213" rx="19" ry="10" fill="#f8e4c8"/>
+  <path d="M995 159q-5 15 4 23m12-16q-3 10 2 17" fill="none" stroke="#dcb58e" stroke-width="6" stroke-linecap="round"/>
+  <g fill="#9ddfce" font-family="Consolas, monospace"><text x="1002" y="117" font-size="21" transform="rotate(9 1002 117)">z</text><text x="1026" y="94" font-size="28" transform="rotate(9 1026 94)">z</text><text x="1058" y="66" font-size="36" transform="rotate(9 1058 66)">z</text></g>
+  <g fill="#f4c58b"><path d="M820 154l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/><path d="M1100 226l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/></g>
+</svg>
