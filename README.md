@@ -19,9 +19,10 @@
 
 来自中南大学，在嵌入式、FPGA 和 Python 之间探索。这里放着我的硬件改造、算法实验，还有一些让日常更有趣的小工具。
 
-- **电路与固件** — ESP32、WCH 单片机、USB / BLE 键盘与电容触摸。
+- **电路与固件** — ESP32、WCH、TI MSPM0；USB / BLE 键盘、电容触摸与串口通信。
 - **软硬件协同** — Zynq UltraScale+、Vivado / Vitis、视觉拼图与 PL 加速。
 - **灵感与工具** — Python 几何算法、图像处理、参数化建模与拼豆图纸。
+- **开发与调试** — C / C++、Python、CMake、Poetry，以及 VS Code 下的编译、烧录与 GDB 调试。
 
 <p>
   <img alt="C / C++" src="https://img.shields.io/badge/C%20%2F%20C%2B%2B-243746?style=flat-square&amp;logo=cplusplus&amp;logoColor=9ddfce" />
@@ -64,7 +65,8 @@
 <p align="center">
   还可以逛逛：<a href="https://github.com/Cosimo2233/puzzle-solver">几何拼图算法</a> ·
   <a href="https://github.com/Cosimo2233/business_card">名片触摸键盘</a> ·
-  <a href="https://github.com/Cosimo2233/mechanical-design">机械设计</a>
+  <a href="https://github.com/Cosimo2233/mechanical-design">机械设计</a> ·
+  <a href="https://github.com/Cosimo2233/mspm0g3507-vscode-gcc-template">单片机开发模板</a>
 </p>
 
 ### 🐍 小蛇的每日点心
