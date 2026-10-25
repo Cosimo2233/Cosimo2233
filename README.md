@@ -69,9 +69,6 @@
   <a href="https://github.com/Cosimo2233/mspm0g3507-vscode-gcc-template">单片机开发模板</a>
 </p>
 
-### 🐍 小蛇的每日点心
-
-每一格绿色，都是留在这里的一点点进步。让小蛇来巡视今天的代码菜园吧。
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cosimo2233/Cosimo2233/output/github-contribution-grid-snake-dark.svg" />
@@ -79,7 +76,6 @@
   <img alt="小蛇吃掉 Cosimo2233 绿色贡献格子的动画，每日自动更新" src="https://raw.githubusercontent.com/Cosimo2233/Cosimo2233/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-<p align="center"><sub>由真实贡献记录生成 · 每日更新 · Powered by <a href="https://github.com/Platane/snk">snk</a></sub></p>
 
 ---
 
