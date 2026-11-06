@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://github.com/Cosimo2233?tab=repositories">项目仓库</a> ·
   <a href="https://github.com/Cosimo2233/puzzle5ev">正在折腾的 FPGA</a> ·
-  <a href="https://github.com/Cosimo2233/Image-generator">像素与拼豆</a>
 </p>
 
 ### 🛠️ 工位上的日常
