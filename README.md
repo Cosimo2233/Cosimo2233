@@ -20,7 +20,7 @@
 
 - **电路与固件** — ESP32、WCH、TI MSPM0；USB / BLE 键盘、电容触摸与串口通信。
 - **软硬件协同** — Zynq UltraScale+、Vivado / Vitis、视觉拼图与 PL 加速。
-- **灵感与工具** — Python 几何算法、图像处理、参数化建模与拼豆图纸。
+- **灵感与工具** — Python 几何算法、图像处理与参数化建模。
 - **开发与调试** — C / C++、Python、CMake、Poetry，以及 VS Code 下的编译、烧录与 GDB 调试。
 
 <p>
